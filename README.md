@@ -46,5 +46,4 @@ git commit -m 'Add some feature'
 ```sh
 git push origin feature/YourFeature
 ```
-
 5. Open a pull request
