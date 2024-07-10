@@ -29,17 +29,22 @@ open index.html
 
 ## Contribution
 Contributions are welcomed in the project:
+
 1.Fork the Repository
+
 2.Create a new feature:
 ```sh
 git checkout -b feature/YourFeature
 ```
+
 3.Commit Your Changes:
 ```sh
 git commit -m 'Add some feature'
 ```
+
 4.Push to the branch:
 ```sh
 git push origin feature/YourFeature
 ```
+
 5. Open a pull request
